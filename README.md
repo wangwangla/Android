@@ -1,6 +1,11 @@
+
+
+
+
 # 入门
 移动开发的基本框架代码
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
  <meta charset="UTF-8">
